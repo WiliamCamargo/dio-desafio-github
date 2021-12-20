@@ -1,2 +1,2 @@
-# dio-desafio-github
-Primeiro desafio de projeto na plataforma Digital Innovation One sobre o Git e Git Hub.
+# Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para o meu primeiro Desafio de Projeto na plataforma Digital Innovation One.
